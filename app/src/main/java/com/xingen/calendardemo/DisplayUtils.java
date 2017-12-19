@@ -4,6 +4,8 @@ import android.content.Context;
 
 /**
  * Created by ${xingen} on 2017/6/19.
+ *
+ * blog:http://blog.csdn.net/hexingen
  */
 
 public class DisplayUtils {

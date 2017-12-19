@@ -27,6 +27,7 @@ import rx.subscriptions.CompositeSubscription;
 
 /**
  * Created by ${xinGen} on 2017/9/13.
+ * blog:http://blog.csdn.net/hexingen
  * <p>
  * 用途：
  * <p>

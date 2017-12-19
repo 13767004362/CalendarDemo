@@ -6,6 +6,10 @@ import android.support.v7.app.AppCompatActivity;
 import java.util.Calendar;
 import java.util.Locale;
 
+/**
+ * Created by ${xingen} on 2017/9/19.
+ * blog:http://blog.csdn.net/hexingen
+ */
 public class MainActivity extends AppCompatActivity {
    private final  String tag=MainActivity.class.getSimpleName();
     private DateTableView dateTableView;
